@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "34.134.222.134",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "GCP",
+            "database": "pokemon",
+            "username": "root",
+            "askForPassword": true
+        }
+    ]
+}
