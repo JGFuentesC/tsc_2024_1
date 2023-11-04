@@ -3,3 +3,5 @@ practicas/pokemon
 practicas/pokemon/datos
 creds/
 .vscode/
+*.csv
+*.parquet
